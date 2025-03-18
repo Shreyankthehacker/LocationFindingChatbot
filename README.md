@@ -14,7 +14,7 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 
 
 <div align="center">
-  <img src="https://c8.alamy.com/comp/2T9E6AH/brazil-24th-nov-2023-in-this-photo-illustration-the-langchain-logo-is-displayed-on-a-smartphone-screen-photo-by-rafael-henriquesopa-imagessipa-usa-strictly-for-editorial-news-purposes-only-credit-sipa-usaalamy-live-news-2T9E6AH.jpg" alt="LangChain Logo" width="200">
+  <img src="https://c8.alamy.com/comp/2T9E6AH/brazil-24th-nov-2023-in-this-photo-illustration-the-langchain-logo-is-displayed-on-a-smartphone-screen-photo-by-rafael-henriquesopa-imagessipa-usa-strictly-for-editorial-news-purposes-only-credit-sipa-usaalamy-live-news-2T9E6AH.jpg" alt="LangChain Logo" width="400">
 </div>
 
 ## 🚀 How It Works
