@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://wallpaperaccess.com/full/2471283.gif" alt="Chatbot Banner">
-</div>
+
 
 <h1 align="center">🌍 Interactive Chatbot with LLM & LangChain 📍</h1>
-<h3 align="center">Search your location with detailed longitude and latitude at a specific time!</h3>
+<h3 align="center">Get your location with detailed longitude and latitude at a specific time!</h3>
 
 🚀 **Welcome to my AI-powered chatbot!**
 This chatbot, built using **LangChain and LLMs**, allows users to search locations in great detail, retrieving longitude, latitude, and timestamps effortlessly.
@@ -22,21 +20,7 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 2. **Specify a time** (optional) → Fetch historical data.
 3. **Chatbot provides real-time responses** using LLM.
 
-## 📸 Demo
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="Chatbot Demo" width="600"/>
 
-## 🛠 Setup & Usage
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/chatbot-llm-location.git
-cd chatbot-llm-location
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the chatbot
-python main.py
-```
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark&hide_border=false)
