@@ -14,7 +14,7 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.png" alt="LangChain Logo" width="200">
+  <img src="[https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.png](https://c8.alamy.com/comp/2T9E6AH/brazil-24th-nov-2023-in-this-photo-illustration-the-langchain-logo-is-displayed-on-a-smartphone-screen-photo-by-rafael-henriquesopa-imagessipa-usa-strictly-for-editorial-news-purposes-only-credit-sipa-usaalamy-live-news-2T9E6AH.jpg)" alt="LangChain Logo" width="200">
 </div>
 
 ## 🚀 How It Works
@@ -27,10 +27,6 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark&hide_border=false)
 
-## 🙌 Connect with Me
-<p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+
 
 🚀 **Let’s revolutionize location-based AI together!** 🌍✨
