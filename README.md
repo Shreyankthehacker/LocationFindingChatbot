@@ -24,9 +24,5 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 
 
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark&hide_border=false)
-
-
 
 🚀 **Let’s revolutionize location-based AI together!** 🌍✨
