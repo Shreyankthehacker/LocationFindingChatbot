@@ -12,11 +12,13 @@ This chatbot, built using **LangChain and LLMs**, allows users to search locatio
 ✅ **AI-Powered Interactions**: Uses LLM for intelligent responses.
 ✅ **Easy Integration**: API-ready for your applications.
 
-## 🛠️ Tech Stack
-[![Languages](https://skillicons.dev/icons?i=python,fastapi,docker,sqlite)](https://skillicons.dev)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.png" alt="LangChain Logo" width="200">
+</div>
 
 ## 🚀 How It Works
-1. **Enter a location** → Get detailed coordinates.
+1. **Ask where you are** → Get detailed coordinates.
 2. **Specify a time** (optional) → Fetch historical data.
 3. **Chatbot provides real-time responses** using LLM.
 
